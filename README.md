@@ -28,7 +28,7 @@ The website features:
 
 ## 🚀 Live Deployment
 
-> 🔗 **[Click here to visit MOBA Legends](https://your-deployed-link-here.com)**
+> 🔗 **[Click here to visit MOBA Legends](https://gagan-singh527.github.io/MOBA_LEGENDS/)**
 
 *(Replace the link above with your actual deployed URL — e.g. from GitHub Pages, Netlify, or Vercel)*
 
