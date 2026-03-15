@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![MOBA Legends Banner](https://i.pinimg.com/736x/90/c5/4a/90c54a22b8bde83618171201286a11a5.jpg)
-
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge)](https://gagan-singh527.github.io/MOBA_LEGENDS/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -100,8 +98,8 @@ The **Land of Dawn** is the fictional world where all heroes originate. It is di
 📦 moba-legends/
 ├── 📄 index.html               # Main HTML file
 ├── 🎨 style.css                # All styles
-├── 🖼️ bg.png                   # Background image
-└── 🗺️ map.png                  # Land of Dawn map
+├── 🖼️ Background-Image.jpg                   # Background image
+└── 🗺️ The_Land_of_Dawn_-_Map___MLBB_2026-03-14_20_01_12.742582.jpg                  # Land of Dawn map
 ```
 
 ---
